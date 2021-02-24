@@ -10,3 +10,4 @@
 
 *Ngày hôm nay sẽ làm gì?
 - Làm mindmap của module 2 để ôn tập lại kiên thức cũ
+- 
