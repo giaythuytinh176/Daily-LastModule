@@ -1,7 +1,7 @@
 # Daily-LastModule
 
 
-# Ngày 24/2- Thứ 4
+# Ngày 24/2/2021- Thứ 4
 *NGÀY	Ngày hôm qua làm gì?	
 Định hướng nghệ nghiệp sau khi đi làm
 
