@@ -9,5 +9,6 @@
 - Tìm kiếm template cho dự án cuối module, vẽ draw.io, blacklog cho dự án cuối mondule 5
 
 *Ngày hôm nay sẽ làm gì?
-- Làm mindmap của module 2 để ôn tập lại kiên thức cũ
 - 
+- Làm mindmap của module 2 để ôn tập lại kiên thức cũ
+- Backlog dự án cuối module 5
