@@ -13,7 +13,7 @@
 - Backlog dự án cuối module 5
 
 
-# Ngày 25/2/2021- Thứ 4
+# Ngày 25/2/2021- Thứ 5
 *Ngày hôm qua làm gì?	
 - Làm mindmap của module 2 để ôn tập lại kiên thức cũ
 - Backlog dự án cuối module 5
