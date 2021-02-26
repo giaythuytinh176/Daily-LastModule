@@ -24,3 +24,15 @@
 *Ngày hôm nay sẽ làm gì?
 - Làm mindmap của module 2, 3 để ôn tập lại kiên thức cũ
 - Học về các công nghệ hiện này và tương lai.
+
+
+# Ngày 26/2/2021- Thứ 6
+*Ngày hôm qua làm gì?	
+- Làm mindmap của module 2, 3 để ôn tập lại kiên thức cũ
+- Học về các công nghệ hiện này và tương lai.
+
+*Có gặp khó khăn gì không?
+- Dịch tiếng anh sang việt trên codesignal
+
+*Ngày hôm nay sẽ làm gì?
+- Làm 52 câu trên w3school và làm trên codesinal PHP, SQL
